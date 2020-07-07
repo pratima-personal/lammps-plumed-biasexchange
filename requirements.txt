@@ -1,0 +1,2 @@
+LAMMPS==2Apr13
+PLUMED==2.2.3 #build with matheval
